@@ -1,4 +1,5 @@
-## Hi there 👋
+### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> 
+
 
 <!--
 **sujalbokde38/sujalbokde38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +14,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
+🎓 Final-year Electrical Engineering student focused on 📊 Data Analytics and 📡 IoT-driven solutions.
+
+💡 Hands-on experience in converting raw data into actionable insights using 🐍 Python, 🛢️ SQL, 📈 Power BI, Pandas, and NumPy, supported by a strong foundation in ⚡ electrical systems and sensor-based monitoring.
+
+🚀 Proven ability to build 📊 interactive dashboards, 🔗 data analytics pipelines, and 📡 IoT-based monitoring projects, working with real-world datasets through internships and academic projects. Recognized for 🧠 strong problem-solving skills, analytical thinking, and the ability to bridge hardware knowledge with data-driven decision-making.
+
+🎯 Actively seeking opportunities in 📊 Data Analytics, 📈 Business Intelligence, or analytics-driven engineering roles, where technical expertise, curiosity, and continuous learning can create measurable impact.
